@@ -1,4 +1,6 @@
-# C_Programming
+# C-Programming
+
+Gebze Technical University Computer Programming`s projects
 
 Grades 
 
